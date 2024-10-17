@@ -10,7 +10,7 @@ The goal is to transform raspi os to a headless boot for PiFarm use.
 
 It is a personal tool and will be edited as required.  
 
-## Insprired by
+## Inspired by
 
 1. https://github.com/nihalgonsalves/headless-pi-setup
 1. https://github.com/perrygeo/raspberry_pi

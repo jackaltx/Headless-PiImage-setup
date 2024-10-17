@@ -1,5 +1,14 @@
-# headless-pi-setup-on-centos8
-Transform raspi os to a headless boot for PiFarm use
+# Setup a Raspberry Pi SD image
+
+In my lab I am testing a cluster of Raspberry Pi's. To make that easier
+this ansible playbook will edit a downloaded OS so that the boot will not require
+any interaction on my part. 
+
+The goal is to transform raspi os to a headless boot for PiFarm use.
+
+## State of Code
+
+It is a personal tool and will be edited as required.  
 
 ## Insprired by
 
